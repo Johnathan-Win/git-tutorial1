@@ -1,0 +1,1 @@
+<?php echo "<h1> This is Index</h1>"; ?>
